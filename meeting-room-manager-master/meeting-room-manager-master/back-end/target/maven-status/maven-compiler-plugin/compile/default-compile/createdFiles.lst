@@ -1,0 +1,7 @@
+com\digital\crud\meetingroom\meetingroom\MeetingroomApplication.class
+com\digital\crud\meetingroom\meetingroom\model\Room.class
+com\digital\crud\meetingroom\meetingroom\exception\GlobalExceptionHandle.class
+com\digital\crud\meetingroom\meetingroom\controller\RoomController.class
+com\digital\crud\meetingroom\meetingroom\exception\ErrorDetails.class
+com\digital\crud\meetingroom\meetingroom\repository\RoomRepository.class
+com\digital\crud\meetingroom\meetingroom\exception\ResourceNotFoundException.class
